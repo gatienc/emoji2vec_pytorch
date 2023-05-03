@@ -4,7 +4,8 @@ PyTorch implementation of [emoji2vec: Learning Emoji Representations from their 
 ## Note
 This repo constitutes of an update from the work of Piotr Wiercinski, many thanks to him for his work. The original repo can be found [here](https://github.com/pwiercinski/emoji2vec_pytorch) 
 Updated to work with the latest version of gensim (4.0.0) and some other little deprecated functions.
-Currently working on implementing the TSN-E algorithm to visualize the emoji vectors in 2D space.
+added the TSN-E algorithm to visualize the emoji vectors in 2D space.
+Currently working on implementing the 3D TSN-E algorithm to visualize the emoji vectors in 3D space.
 
 ## Pre-trained model
 
