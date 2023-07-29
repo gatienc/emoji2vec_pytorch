@@ -4,8 +4,7 @@ This repo constitutes of an update from the work of Piotr Wiercinski, many thank
 [emoji2vec: Learning Emoji Representations from their Description](https://arxiv.org/pdf/1609.08359.pdf) by Ben Eisner, Tim Rocktäschel, Isabelle Augenstein, Matko Bošnjak, and Sebastian Riedel. Please check out the original tensorflow implementation [here](https://github.com/uclmr/emoji2vec).
 
 Updated to work with the latest version of gensim (4.0.0) and some other little deprecated functions.
-added the TSN-E algorithm to visualize the emoji vectors in 2D space.
-Currently working on implementing the 3D TSN-E algorithm to visualize the emoji vectors in 3D space.
+Added the TSN-E algorithm to visualize the emoji vectors in 2D space.
 
 ## Pre-trained model
 
